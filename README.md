@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gulcnx
+- 👋🏻 Hi, I’m @gulcnx
 - 👀 I’m interested in self improvement and different languages, rock' music, Photographing, video games and nature !!! 
 - 🌱 I’m currently learning Swift !
 - 💞️ I’m looking to collaborate on .. Networking ? 
