@@ -2,7 +2,7 @@
 - 👀 I’m interested in self improvement and different languages, rock' music, Photographing, video games and nature !!! 
 - 🌱 I’m currently learning Swift !
 - 💞️ I’m looking to collaborate on .. Networking ? 
-- 📫 How to reach me ... Here is my linkedin account == https://www.linkedin.com/in/g%C3%BCl%C3%A7in-%C3%A7etin-756a21271/
+- 📫 How to reach me ... Here is my linkedin account www.linkedin.com/in/gülçin-çetin-756a21271
 - 😄 Pronouns: she/ her !
 - ⚡ Fun fact: nobody cares !! 
 
