@@ -1,5 +1,4 @@
-
-Gülçin ✨  
+My name is Gülçin 🖤
 
 learning **Swift**.  
 living for sunsets, art, and freedom.  
