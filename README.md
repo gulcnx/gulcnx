@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Catwalking.gif" width="160">
+<img src="https://media.tenor.com/VzAJRDigw3gAAAAi/pixel-cat-pixel.gif" width="160">
+<img src="https://media.tenor.com/TLr1wknhkCwAAAAi/cat-pixel.gif" width="160">
+<img src="https://media.tenor.com/VzAJRDigw3gAAAAi/pixel-cat-pixel.gif" width="160">
+
 
 # 🌙 **GÜLÇİN ÇETİN**
 ### *Junior iOS Developer • Explorer of Digital Aesthetics • Computer Engineering Student*
