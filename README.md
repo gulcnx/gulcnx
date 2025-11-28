@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://i.imgur.com/bYx8F8n.gif" width="180" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" width="180" />
 
 # 🌙 **GÜLÇİN ÇETİN**
 ### *Junior iOS Developer • Explorer of Digital Aesthetics • Computer Engineering Student*
@@ -16,21 +16,21 @@
 
 <br/>
 
-<img src="https://i.imgur.com/zl9Yp8W.gif" width="350" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Falling_stars.gif" width="350" />
 
 </div>
 
 ---
 
 ## 🦋 **About Me**
-I’m **Gulcin**, a Computer Science student & ** Junior iOS Developer** from Turkey.  
+I’m **Gulcin**, a Computer Science student & **Junior iOS Developer** from Turkey.  
 I adore clean aesthetic UIs, nature, foreign cultures and connections with different people.  
 
 ✨ I love:  
 - Swift & SwiftUI  
 - Building apps  
-- Photography, traveling, and story-based games 
-- Learning English & Spanish and other languages
+- Photography, traveling, and story-based games  
+- Learning English & Spanish and other languages  
 
 💫 My dream is to create meaningful apps that help people and express beauty.
 
@@ -39,12 +39,15 @@ I adore clean aesthetic UIs, nature, foreign cultures and connections with diffe
 ## 👩🏻‍💻 **What I’m Currently Working On**
 - API calling, networking, Swift Concurrency  
 - Improving analytical + coding skills  
-- Creating elegant UI components
-  
+- Creating elegant UI components  
+
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/9M5jH4wepR3kk/giphy.gif" width="280"/>
+
+<!-- Vibe GIF -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated_Galaxy.gif" width="280"/>
+
 </div>
 
 ---
@@ -65,18 +68,19 @@ I adore clean aesthetic UIs, nature, foreign cultures and connections with diffe
 ## **GitHub Stats**
 <div align="center">
 
-<img src="https://i.imgur.com/zl9Yp8W.gif" width="350" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Falling_stars.gif" width="350" />
 
-<div align="center">
-  
-<img src="https://i.imgur.com/o3Z8b3R.gif" width="280"/>
+<br/><br/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated_Galaxy.gif" width="280"/>
 
 </div>
---- 
+
+---
 
 <div align="center">
-  
-<img src="https://media.giphy.com/media/l0HlFdyFzoTe6vP0I/giphy.gif" width="200"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Smokey_Aurora.gif" width="200"/>
 
 </div>
 
