@@ -1,6 +1,6 @@
 <div align="center">
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Animated_Kitten.gif" width="160">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Cat-kitten.gif" width="180">
 
 # 🌙 **GÜLÇİN ÇETİN**
 ### *Junior iOS Developer • Explorer of Digital Aesthetics • Computer Engineering Student*
