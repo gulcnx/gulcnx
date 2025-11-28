@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Cat_cartoon_animated.gif" width="180">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Cat_pixel_art.gif" width="170">
 
 # 🌙 **GÜLÇİN ÇETİN**
 ### *Junior iOS Developer • Explorer of Digital Aesthetics • Computer Engineering Student*
@@ -66,5 +66,5 @@ I adore clean aesthetic UIs, nature, foreign cultures and connections with diffe
 
 ## **Thanks for Visiting**
 If you like my work, feel free to ⭐ my repositories.  
-Let’s create together. 🌙
+Let’s create together.
 
