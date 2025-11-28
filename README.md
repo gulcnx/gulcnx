@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" width="180" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Animated_Kitten.gif" width="160">
 
 # 🌙 **GÜLÇİN ÇETİN**
 ### *Junior iOS Developer • Explorer of Digital Aesthetics • Computer Engineering Student*
@@ -59,14 +59,6 @@ I adore clean aesthetic UIs, nature, foreign cultures and connections with diffe
 | **iOS** | Swift • SwiftUI • UIKit • SwiftData • Combine • Concurrency |
 | **Tools** | Git • GitHub • Xcode |
 | **Other** | Algorithms |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Smokey_Aurora.gif" width="200"/>
 
 </div>
 
