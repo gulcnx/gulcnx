@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://media.giphy.com/media/3ov9jZrfN5hXJ7zVRu/giphy.gif" width="180" />
+<img src="https://i.imgur.com/bYx8F8n.gif" width="180" />
 
 # 🌙 **GÜLÇİN ÇETİN**
 ### *Junior iOS Developer • Explorer of Digital Aesthetics • Computer Engineering Student*
@@ -16,14 +16,14 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFyOGZmN2djbGw0bHBpZGI1b2d3ZmN0YWM5MGZyYXJucDRuOWYzNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fQZX2aoRC1Tqw/giphy.gif" width="350" />
+<img src="https://i.imgur.com/zl9Yp8W.gif" width="350" />
 
 </div>
 
 ---
 
 ## 🦋 **About Me**
-I’m **Gülçin**, a Computer Engineering student & future **iOS Developer** from Turkey.  
+I’m **Gulcin**, a Computer Science student & ** Junior iOS Developer** from Turkey.  
 I adore clean aesthetic UIs, nature, foreign cultures and connections with different people.  
 
 ✨ I love:  
@@ -36,7 +36,7 @@ I adore clean aesthetic UIs, nature, foreign cultures and connections with diffe
 
 ---
 
-## 🖤 **What I’m Currently Working On**
+## 👩🏻‍💻 **What I’m Currently Working On**
 - API calling, networking, Swift Concurrency  
 - Improving analytical + coding skills  
 - Creating elegant UI components
@@ -62,26 +62,27 @@ I adore clean aesthetic UIs, nature, foreign cultures and connections with diffe
 
 ---
 
-## 🧿 **GitHub Stats**
+## **GitHub Stats**
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gulcnx&show_icons=true&theme=nightowl&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulcnx&layout=compact&theme=nightowl&hide_border=true" />
+<img src="https://i.imgur.com/zl9Yp8W.gif" width="350" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gulcnx&theme=nightowl&hide_border=true" height="160"/>
+<div align="center">
+  
+<img src="https://i.imgur.com/o3Z8b3R.gif" width="280"/>
 
 </div>
 --- 
 
 <div align="center">
+  
 <img src="https://media.giphy.com/media/l0HlFdyFzoTe6vP0I/giphy.gif" width="200"/>
+
 </div>
 
 ---
 
-## 🦄 **Thanks for Visiting**
+## **Thanks for Visiting**
 If you like my work, feel free to ⭐ my repositories.  
 Let’s create together. 🌙
 
