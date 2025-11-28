@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Cat_pixel_art.gif" width="170">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Catwalking.gif" width="160">
 
 # 🌙 **GÜLÇİN ÇETİN**
 ### *Junior iOS Developer • Explorer of Digital Aesthetics • Computer Engineering Student*
