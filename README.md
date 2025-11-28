@@ -22,7 +22,7 @@
 
 ---
 
-## 🦋 **About Me**
+## **About Me**
 I’m **Gulcin**, a Computer Science student & **Junior iOS Developer** from Turkey.  
 I adore clean aesthetic UIs, nature, foreign cultures and connections with different people.  
 
@@ -45,7 +45,6 @@ I adore clean aesthetic UIs, nature, foreign cultures and connections with diffe
 
 <div align="center">
 
-<!-- Vibe GIF -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated_Galaxy.gif" width="280"/>
 
 </div>
@@ -60,19 +59,6 @@ I adore clean aesthetic UIs, nature, foreign cultures and connections with diffe
 | **iOS** | Swift • SwiftUI • UIKit • SwiftData • Combine • Concurrency |
 | **Tools** | Git • GitHub • Xcode |
 | **Other** | Algorithms |
-
-</div>
-
----
-
-## **GitHub Stats**
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Falling_stars.gif" width="350" />
-
-<br/><br/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated_Galaxy.gif" width="280"/>
 
 </div>
 
