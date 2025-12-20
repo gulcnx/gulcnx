@@ -21,8 +21,9 @@
 ---
 
 ## **About Me**
-I’m **Gulcin**, a Computer Science student & **Junior iOS Developer** from Turkey. I love Atatürk 🇹🇷.
-I adore clean aesthetic UIs, self-improving, nature, foreign cultures and connections with different people.  
+I’m **Gulcin**, a Computer Science student & **Junior iOS Developer** from Turkey. /n
+I love Atatürk 🇹🇷. /n
+I adore clean aesthetic UIs, self-improving, nature, foreign cultures and connections with different people. 
 
 What I love:  
 - Swift & SwiftUI  
@@ -61,7 +62,4 @@ My goal is to create meaningful apps that help people and express beauty.
 </div>
 
 ---
-
 ## **Thanks for Visiting !**
-
-If you like my work, feel free to ⭐ my repositories.  
