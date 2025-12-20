@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌙 **GÜLÇİN ÇETİN**
-### *Junior iOS Developer • Explorer of Digital Aesthetics • Computer Engineering Student*
+### *Junior iOS Developer • Computer Engineering Student*
 
 **I love Swift**
 
@@ -21,21 +21,21 @@
 ---
 
 ## **About Me**
-I’m **Gulcin**, a Computer Science student & **Junior iOS Developer** from Turkey.  
-I adore clean aesthetic UIs, nature, foreign cultures and connections with different people.  
+I’m **Gulcin**, a Computer Science student & **Junior iOS Developer** from Turkey. I love Atatürk 🇹🇷.
+I adore clean aesthetic UIs, self-improving, nature, foreign cultures and connections with different people.  
 
-✨ I love:  
+What I love:  
 - Swift & SwiftUI  
 - Building apps  
 - Photography, traveling, and story-based games  
 - Learning English & Spanish and other languages  
 
-💫 My dream is to create meaningful apps that help people and express beauty.
+My goal is to create meaningful apps that help people and express beauty.
 
 ---
 
 ## 👩🏻‍💻 **What I’m Currently Working On**
-- API calling, networking, Swift Concurrency  
+- API calling, MVVM, networking, Swift Concurrency  
 - Improving analytical + coding skills  
 - Creating elegant UI components  
 
@@ -62,7 +62,6 @@ I adore clean aesthetic UIs, nature, foreign cultures and connections with diffe
 
 ---
 
-## **Thanks for Visiting**
-If you like my work, feel free to ⭐ my repositories.  
-Let’s create together.
+## **Thanks for Visiting !**
 
+If you like my work, feel free to ⭐ my repositories.  
